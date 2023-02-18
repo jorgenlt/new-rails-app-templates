@@ -1,4 +1,4 @@
-# New Ruby on Rails Templates
+# New Ruby on Rails app templates
 Originally from [lewagon/rails-templates](https://github.com/lewagon/rails-templates)
 
 </br>
