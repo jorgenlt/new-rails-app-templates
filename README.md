@@ -12,6 +12,8 @@ See [Rails Templates](http://guides.rubyonrails.org/rails_application_templates.
 ## Minimal
 
 Get a minimal rails app ready to be deployed on Heroku with Bootstrap, Simple form and debugging gems.
+- postgreSQL
+- webpack
 
 ```bash
 rails new \
@@ -24,6 +26,8 @@ rails new \
 ## Devise
 
 Same as minimal **plus** a [Devise](https://github.com/heartcombo/devise) install with a generated `User` model.
+- postgreSQL
+- webpack
 
 ```bash
 rails new \
