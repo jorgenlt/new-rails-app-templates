@@ -17,7 +17,7 @@ Get a minimal rails app ready to be deployed on Heroku with Bootstrap, Simple fo
 rails new \
   -d postgresql \
   -j webpack \
-  -m https://raw.githubusercontent.com/jorgenlt/new-rails-project-templates/master/minimal.rb \
+  -m https://raw.githubusercontent.com/jorgenlt/new-rails-app-templates/master/minimal.rb \
   your_new_rails_app_name
 ```
 
@@ -29,6 +29,6 @@ Same as minimal **plus** a [Devise](https://github.com/heartcombo/devise) instal
 rails new \
   -d postgresql \
   -j webpack \
-  -m https://raw.githubusercontent.com/jorgenlt/new-rails-project-templates/master/devise.rb \
+  -m https://raw.githubusercontent.com/jorgenlt/new-rails-app-templates/master/devise.rb \
   your_new_rails_app_name
 ```
